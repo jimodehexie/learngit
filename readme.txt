@@ -8,4 +8,6 @@ Git tracks changes.
 8
 9
 10
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
+
